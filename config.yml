@@ -8,3 +8,4 @@ MODEL_PATH: forest.sav
 WEBSOCKET: "wss://api-v2.blaze.com/replication/?EIO=3&transport=websocket"
 LOGS: "logs/requests.log"
 JOIN: '423["cmd",{"id":"subscribe","payload":{"room":"double_v2"}}]'
+
