@@ -17,3 +17,4 @@ RUN pip install --upgrade pip \
 COPY . .
 
 ENTRYPOINT [ "python", "/telegram-api/app.py" ]
+
