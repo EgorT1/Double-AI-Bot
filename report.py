@@ -162,3 +162,4 @@ def generate_report():
 
     # Salva o PDF em disco
     pdf.output(f'logs/{data_atual}.pdf', 'F')
+
