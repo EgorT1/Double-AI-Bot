@@ -164,3 +164,4 @@ def generate_report():
     pdf.output(f'logs/{data_atual}.pdf', 'F')
 
 
+
